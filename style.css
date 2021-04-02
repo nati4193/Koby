@@ -1,0 +1,53 @@
+ิbody{
+    background-color: teal;
+}
+
+#main{
+    background-color:black;
+    color:white;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#image{
+    display: block;
+    max-width: 100%;
+    background-color: ivory;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: turquoise;
+    border-width: 5%;
+}
+
+#img-caption{
+    text-align: center;
+}
+
+#sub-title{
+    position: relative;
+    text-align: center;
+    display: block;
+    background-color:#3c415c;
+    padding: 5% 10% 5% 10%;
+    margin: 2% 2% 2% 2%;
+    font-size: larger;
+}
+
+#tribute-info{
+    margin: 2% 2% 2% 2%;
+    padding: 5% 5% 5% 5%;
+    background-color:#301b3f;
+}
+
+#title{
+    background-color: gray;
+    text-align: center;
+}
+
+h1{
+    font-family: monospace;
+}
+h2{
+    font-family: monospace;
+}
